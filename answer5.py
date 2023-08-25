@@ -1,4 +1,4 @@
-#https://leetcode.com/submissions/detail/1017975962
+# https://leetcode.com/submissions/detail/1017975962
 
 from collections import defaultdict
 from typing import List
