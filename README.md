@@ -1,1 +1,1 @@
-Coding challenge answers. See wiki for performance.
+Coding challenge answers. See wiki for performance..
